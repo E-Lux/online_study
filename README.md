@@ -3,6 +3,7 @@
 <p align="center">
 	<img src="./images/bookcover.png" alt="bookcover" width="50%" height="50%"/>
 </p>
+
 ## The people who studied with me🤝<a id="people"></a>
 * 🤝민성[@msio900](https://github.com/msio900)
 * 🤝은현[@E-Lux](https://github.com/msio900)
