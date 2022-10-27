@@ -1,6 +1,6 @@
-# Algorithm Study
+# ⌨️ Algorithm Study for Algorithm Coding Test
 
-<img src="./images/bookcover.png" style="zoom:5%;" />
+<img src="./images/bookcover.png"width="50%" height="50%"/>
 
 ## The people who studied with me🤝<a id="people"></a>
 * 🤝민성[@msio900](https://github.com/msio900)
