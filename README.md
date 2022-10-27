@@ -1,15 +1,16 @@
 # Algorithm Study
 
-<img src="./images/bookcover.png" style="zoom:10%;" />
+<img src="./images/bookcover.png" style="zoom:5%;" />
 
 ## The people who studied with me🤝<a id="people"></a>
-
 * 🤝민성[@msio900](https://github.com/msio900)
 * 🤝은현[@E-Lux](https://github.com/msio900)
 * 🤝영민[@youmn327](https://github.com/youmn327)
 * 🤝아연[@climay12](https://github.com/limay12)
 * 🤝정화
 * 🤝나연[@nayeonLeee](https://github.com/nayeonLeee)
+
+## Contents📑<a id="people"></a>
 
 * Part2 : 주요 알고리즘 이론과 실전 문제
   * Chapter 3 : 그리디[👉](./3_greedy.md)
