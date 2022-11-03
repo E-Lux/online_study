@@ -4,6 +4,9 @@ from collections import defaultdict
 
 # A - B, B - C, C - D, D - E 친구관계가 존재하는지 안하는지 구하는 프로그램을 작성하시오.
 
+
+
+
 input = sys.stdin.readline
 
 n, m = map(int, input().split())
