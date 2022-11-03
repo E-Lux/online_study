@@ -9,7 +9,7 @@
 * 🤝은현[@E-Lux](https://github.com/msio900)
 * 🤝영민[@youmn327](https://github.com/youmn327)
 * 🤝아연[@climay12](https://github.com/limay12)
-* 🤝정화
+* 🤝정화[@junghwa5](https://github.com/junghwa5)
 * 🤝나연[@nayeonLeee](https://github.com/nayeonLeee)
 
 ## Contents📑<a id="people"></a>
