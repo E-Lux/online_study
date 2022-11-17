@@ -11,7 +11,7 @@ input = sys.stdin.readline
 
 n, m = map(int, input().split())
 
-relations = [[]for _ in range(n)]
+relations = [ [] for _ in range(n)]
 
 visited = [False] * 2001
 
