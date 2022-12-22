@@ -1,4 +1,4 @@
-# ⌨️ Chapter05_DFS/BFS
+# ⌨️ Chapter07_binary_search
 
 ### 정리1 :범위를 반씩 좁혀가는 탐색
 | 민성 | 은현 | 영민 | 아연 | 정화 |
