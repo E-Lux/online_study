@@ -19,6 +19,6 @@
   * Chapter 4 : 구현(Implementation)[👉](./Chap04_Implementation)
   * Chapter 5 : DFS/BFS[👉](./Chap05_DFS&BFS)
   * Chapter 6 : 정렬 [👉](./Chap06_sorting)
-  * Chapter 7 : 이진탐색 [👉](./7_binary_search)
+  * Chapter 7 : 이진탐색 [👉](./Chap06_binary_search)
   * Chapter 8 : 다이나믹 프로그래밍 [👉](./8_dynamic_programming)
   * Chapter 9 : 최단 경로 [👉](./9_shortest_path)
